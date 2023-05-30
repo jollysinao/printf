@@ -150,7 +150,7 @@ return (write_number(is_negative, i, buffer, flags, width, precision, size));
 * @width: get width.
 * @precision: Precision specification
 * @size: Size specifier
-* Return: Numbers of char printed.
+* Return: Numb of char printed.
 */
 int print_binary(va_list types, char buffer[],
 int flags, int width, int precision, int size)
