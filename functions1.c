@@ -115,7 +115,7 @@ flags, 'X', width, precision, size));
 
 /************** PRINT HEXX NUM IN LOWER OR UPPER **************/
 /**
-* print_hexa - Prints a hexadecimal number in lower or upper
+* print_hexa - Prints a hexadecimal numb in lower or upper
 * @types: Lista of arguments
 * @map_to: Array of values to map the number to
 * @buffer: Buffer array to handle print
